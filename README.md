@@ -1,6 +1,6 @@
-# Algo Trading 101 
+# Algo Trading 101 (2019/20)
 
-This is a comprehensible Introduction to Algo Trading for the members of TU I, to raise curiosity and resurrect Alternative Strategies/Assets.
+This is a comprehensible Introduction to Algo Trading for the members of TU Investment Club Munich, to raise curiosity and resurrect Alternative Strategies/Assets.
 The objective is a comprehensive overview in three lectures including 
 - Data Collection, Preparation and Manipulation, 
 - Model Selection and Discussion,
